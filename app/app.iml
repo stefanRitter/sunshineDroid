@@ -82,6 +82,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="support-annotations-21.0.0" level="project" />
     <orderEntry type="library" exported="" name="support-v4-21.0.0" level="project" />
+    <orderEntry type="library" exported="" name="beta-1.0.0" level="project" />
+    <orderEntry type="library" exported="" name="crashlytics-2.0.0" level="project" />
+    <orderEntry type="library" exported="" name="fabric-1.0.0" level="project" />
+    <orderEntry type="library" exported="" name="answers-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-21.0.0" level="project" />
   </component>
 </module>
